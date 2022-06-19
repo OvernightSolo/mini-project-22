@@ -1,0 +1,65 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font: normal;
+  background-color: black;
+  color: white;
+}
+
+li {
+  display: inline;
+}
+
+header {
+  position: fixed;
+}
+
+img {
+  width: 70%;
+  height: 500px;
+}
+
+header {
+  color: white;
+}
+
+.list-items {
+  color: white;
+  margin-right: 10px;
+}
+
+body {
+  margin: 5px;
+  padding: 5px;
+}
+
+label {
+  display: block;
+}
+
+footer {
+  background-color: rgb(215, 218, 96);
+  width: 70%;
+  color: black;
+  font-size: 15px;
+  text-align: center;
+}
+
+h2 {
+  width: 70%;
+}
+
+#submit-button {
+  border-color: grey;
+  padding: 5px;
+  width: 100px;
+  background-color: orangered;
+  color: black;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+figcaption {
+  font-style: italic;
+}
